@@ -27,7 +27,6 @@ ENV/
 *.env
 *.venv
 *.DS_Store
-requirements.txt
 
 # Model artifacts and data
 *.h5
