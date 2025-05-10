@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# PyCharm / VS Code
+.idea/
+.vscode/
+
+# Logs and runtime files
+*.log
+*.out
+
+# Python metadata
+*.egg-info/
+
+# Environment & dependencies
+*.env
+*.venv
+*.DS_Store
+requirements.txt
+
+# Model artifacts and data
+*.h5
+*.pkl
+*.joblib
+*.pt
+*.ckpt
+*.onnx
+*.sav
+*.npy
+*.npz
+models/
+checkpoints/
+data/
+datasets/
+output/
+results/
+
+# Hidden files
+*.swp
